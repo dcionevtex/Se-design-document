@@ -129,7 +129,7 @@ Every decision with alternatives goes in the ADR (Section 11). Include:
 For comprehensive guidance on:
 - **VTEX modules and architecture**, see [VTEX Developers](https://developers.vtex.com)
 - **Solution design methodology**, see SKILL.md and the reference guides
-- **VTEX brand guidelines**, refer to your organization's brand standards
+- **VTEX brand guidelines**, see `/mnt/skills/user/vtex-brand-guidelines/SKILL.md`
 
 ## Contributing
 
